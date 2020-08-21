@@ -1,5 +1,5 @@
 # Hi there 👋
-Im Nathan, a software-engineer attending Lambda School. I am passionate about learning full-stack technologies and my stack incluced PostgresQL, Express, Node, and React.
+I'm Nathan, a software-engineer attending Lambda School. I am passionate about learning full-stack technologies, my stack includes PostgresQL, Express, Node, and React.
 
 #### Currently I am:
 - Working on deploying a full-stack eCommerce website
